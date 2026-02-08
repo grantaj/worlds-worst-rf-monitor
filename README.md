@@ -1,2 +1,3 @@
-# worlds-worst-rf-monitor
-Quick and dirty visualizer for hackrf
+# World's Worst RF Monitor
+- Visualiser for hackrf_sweep
+- Just wanted something to look at signals
