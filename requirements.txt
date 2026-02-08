@@ -1,0 +1,5 @@
+numpy>=1.24
+matplotlib>=3.7
+# Optional (faster interactive plotting):
+# pyqtgraph>=0.13
+# For virtualenv/tools: pip>=23
