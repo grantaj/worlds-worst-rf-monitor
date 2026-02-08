@@ -95,6 +95,7 @@ python hackrf_visualizer.py
 ### Keyboard Shortcuts
 
 While the visualizer is running:
+- `q`: Quit the program and close the window
 - `s`: Save a snapshot (CSV data and PNG image)
 - `r`: Reset the buffer and envelope
 
